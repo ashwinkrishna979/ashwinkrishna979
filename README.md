@@ -22,7 +22,7 @@ Here are some of the exciting projects I've worked on:
 
 1. 📊 **UML Diagram Automation using Large Language Models**
    - *Python, Django, PyTorch | September 2023*
-   - Developed a web application to automate UML diagram generation from requirement documents.
+   - ⚙️Developed a web application to automate UML diagram generation from requirement documents.
      
 2. 🧬 **Potential B-Cell Epitopes Prediction**
    - *Python, scikit-learn | May 2023*
