@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ashwin-mariyathu-krishnakumar/)
 
-🚀 Innovative Software Engineer | 🎓 Pursuing MSc in Artificial Intelligence | 🌟 Passionate about Machine Learning and Deep Learning
+🚀 Innovative Software Developer | 🌟 Passionate about Machine Learning and Deep Learning
 
 ## About Me
 
