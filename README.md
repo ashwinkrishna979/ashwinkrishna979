@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm an enthusiastic Software Engineer passionate about AI and Machine Learning. I'm pursuing my MSc in Artificial Intelligence, blending advanced knowledge with hands-on experience in predictive modeling and simulations. I'm always eager to learn, contribute, and accelerate ML model training.
+Experienced software developer with a mastery of python, C# .NET and Django, backed by a Master's in Artificial Intelligence. Passionate about leveraging AI to build cutting-edge solutions
 
 ## Skills
 
@@ -19,31 +19,37 @@ I'm an enthusiastic Software Engineer passionate about AI and Machine Learning. 
 ## Projects
 
 Here are some of the exciting projects I've worked on:
+1. **Warehouse Management System (WMS)**
+   - *C#,.NET, Blazor / April 2024*
+   - Developed a web application to manage inventory packing in a warehouse. 
 
-1. 📊 **UML Diagram Automation using Large Language Models**
+3.  **UML Diagram Automation using Large Language Models**
    - *Python, Django, PyTorch | September 2023*
-   - ⚙️Developed a web application to automate UML diagram generation from requirement documents.
+   - Developed a web application to automate UML diagram generation from requirement documents.
      
-2. 🧬 **Potential B-Cell Epitopes Prediction**
+3.  **Potential B-Cell Epitopes Prediction**
    - *Python, scikit-learn | May 2023*
-   - 🧪 Created a classification model to predict alphavirus epitopes using Scikit-learn.
+   -  Created a classification model to predict alphavirus epitopes using Scikit-learn.
 
-3. 🤖 **Autonomous Path Finding Robot**
+4.  **Autonomous Path Finding Robot**
    - *Python, OpenCV, Webots | April 2023*
-   - 🤖 Developed a robot simulation using Python in Webots simulator.
+   -  Developed a robot simulation using Python in Webots simulator.
 
-4. 🚗 **Intelligent Traffic Monitoring System**
+5.  **Intelligent Traffic Monitoring System**
    - *Python, TensorFlow | May 2020*
-   - 🚦 Built a computer vision-based model for detecting traffic rule violations.
-
-
+   -  Built a computer vision-based model for detecting traffic rule violations.
 
 ## Publications
 
 - [**"An Intelligent Traffic Monitoring System for Non-Helmet Wearing Motorcyclists Detection"**](https://ieeexplore.ieee.org/abstract/document/9325632) (IEEE)
 
-
 ## Experience
+### Software Developer at SCH Tech
+*Rugby, UK / October 2023 -*
+- Designed and optimised API workflows for broadband service clients.
+- Developed a synchronisation script to sync Monday CRM with HubSpot CRM.
+- Developed an inventory management system in .NET platform using C#, Blazor and PostgreSQL.
+- Proficiently utilised C#, .NET, Django, and Python in conjunction with MSSQL and SQLite for diverse projects within the company.
 
 ### 🛠️ Software Engineer at Capgemini Technology Services India Limited
 *Bangalore, India | February 2021 - August 2022*
