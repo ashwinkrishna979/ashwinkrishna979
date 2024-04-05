@@ -20,7 +20,7 @@ Experienced software developer with a mastery of python, C# .NET and Django, bac
 
 Here are some of the exciting projects I've worked on:
 1. **Warehouse Management System (WMS)**
-   - *C#,.NET, Blazor / April 2024*
+   -*C#,.NET, Blazor / April 2024*
    - Developed a web application to manage inventory packing in a warehouse. 
 
 3.  **UML Diagram Automation using Large Language Models**
